@@ -1,0 +1,74 @@
+############################################
+# Unity generated folders
+############################################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+############################################
+# OS / Editor junk
+############################################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+############################################
+# IDEs (Visual Studio / Rider / VS Code)
+############################################
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.booproj
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.rsuser
+*.sln.DotSettings.user
+
+# VS Code (optional)
+.vscode/
+
+############################################
+# Unity auto-generated / exported
+############################################
+ExportedObj/
+.consulo/
+
+############################################
+# Crash / diagnostics
+############################################
+sysinfo.txt
+crashlytics-build.properties
+
+############################################
+# Android / Gradle (Unity builds)
+############################################
+.gradle/
+local.properties
+.cxx/
+
+############################################
+# Addressables / IL2CPP caches (usually safe to ignore)
+############################################
+/Assets/AddressableAssetsData/*/BuildLayout*.json
+/Assets/AddressableAssetsData/*/*.bin*
